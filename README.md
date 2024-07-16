@@ -13,4 +13,7 @@
 #### This contains the main code for validation
 
 ### read.py
-#### This contains the code for reading and writing in a file
+#### This contains the code for reading a file
+
+### write.py
+#### This contains the code for writing a file
